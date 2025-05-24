@@ -2,7 +2,7 @@
 
 This project explores why some Zepto users lose access to "free cash" rewards using a simulated dataset of 827 users.
 
-![Free Cash Analysis](images/disablement_chart.png) <!-- Replace with your actual image path -->
+![Free Cash Analysis](https://github.com/Manikanta-Patankar/Zepto-Free-Cash-Disablement-Analysis/blob/master/image.jpg?raw=true)
 
 ## 📊 Key Findings
 
