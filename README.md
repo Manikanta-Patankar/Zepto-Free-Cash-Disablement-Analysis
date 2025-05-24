@@ -28,5 +28,5 @@ This project explores why some Zepto users lose access to "free cash" rewards us
 
 - `zepto_analysis.ipynb` – Jupyter analysis
 - `data_simulated.csv` – Sample dataset
-- `images/disablement_chart.png` – Visual summary (add your image here)
+- `images/disablement_chart.png` – Visual summary 
 
